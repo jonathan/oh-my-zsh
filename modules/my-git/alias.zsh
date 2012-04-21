@@ -119,7 +119,7 @@ alias gRs='git remote show'
 alias gRb='git-hub'
 
 # Stash (s)
-alias gs='git stash'
+#alias gs='git stash'
 alias gsa='git stash apply'
 alias gsc='git stash clear'
 alias gsx='git stash drop'
@@ -151,4 +151,5 @@ alias gwC='git clean -f'
 alias gwx='git rm -r'
 alias gwX='git rm -rf'
 alias gwg='git grep'
+alias gs='git status'
 
